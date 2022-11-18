@@ -1,26 +1,5 @@
 package com.example.DBZ_API.util;
 
-i
-        DevSuperior logo Semana Spring React - Episódio 2
-        Crie um app completo para seu portfólio com as tecnologias mais demandadas do mercado
-
-        Realização
-        DevSuperior - Escola de programação
-
-        DevSuperior no Instagram DevSuperior no Youtube
-
-        Objetivos do projeto para esta aula
-        Implementar o back end
-        Acesso a banco de dados
-        Criar endpoints da API REST
-        Integração com SMS
-        Implantação na nuvem
-        AVISO: as aulas ficarão disponíveis somente até domingo às 23h59
-        Checklist
-        Ferramentas
-        Postman (Vídeo: https://youtu.be/CWKLVapcnCU )
-        Heroku CLI (Vídeo: https://youtu.be/70LUh5KNaEk )
-        Passo: configuração de segurança
 import java.util.Arrays;
 
 import org.springframework.context.annotation.Bean;
